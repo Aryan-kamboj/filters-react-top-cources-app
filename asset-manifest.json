@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filters-react-top-cources-app/static/css/main.ced49cdb.css",
+    "main.js": "/filters-react-top-cources-app/static/js/main.f848637e.js",
+    "index.html": "/filters-react-top-cources-app/index.html",
+    "main.ced49cdb.css.map": "/filters-react-top-cources-app/static/css/main.ced49cdb.css.map",
+    "main.f848637e.js.map": "/filters-react-top-cources-app/static/js/main.f848637e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced49cdb.css",
+    "static/js/main.f848637e.js"
+  ]
+}
